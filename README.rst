@@ -6,6 +6,7 @@ pyad is a Python library designed to provide a simple, Pythonic interface to Act
 
 Requirements
 ============
+Django
 
 pyad requires pywin32, available at https://github.com/mhammond/pywin32.
 
